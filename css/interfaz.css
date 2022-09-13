@@ -1,0 +1,16 @@
+body {
+  background: #eee;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+#descripcion {
+  resize: none;
+}
+
+.center {
+  text-align: center;
+  vertical-align: middle;
+}
